@@ -1,6 +1,4 @@
-body,header{
-    width: 100%;
-}
+
 .background-image{
     background-image: url(../images/Untitled-1.png);
     max-width: 1920px;
@@ -34,5 +32,9 @@ body,header{
 .header-card{
     margin-top: 80px;
     margin-left: 15%;
+    
+}
+.hover-effect:hover{
+    box-shadow: 12px 0 20px #88888888;
     
 }
